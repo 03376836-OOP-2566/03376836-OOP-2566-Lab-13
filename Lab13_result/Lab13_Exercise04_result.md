@@ -21,11 +21,11 @@ abstract class Animal
 โปรแกรมจะแสดงผล 
 
 - Dog move by running on the ground         
-Dog says: Woof!
+
 - Bird move by flying in the air            
-Bird says: Chirp chirp!
+
 - Fish move by swimming in the water        
-Fish says: ... (no sound)
+
 
 ## หลังแก้ไขโปรแกรม
 
