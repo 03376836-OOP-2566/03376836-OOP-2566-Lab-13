@@ -76,7 +76,10 @@ dotnet build  Lab13_Ex06
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/980c26d4-251b-4eba-a186-b4287c2be313)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/ff47b749-5223-4dce-8f2b-7e457297de5e)
 
 5.Run project โดยการใช้คำสั่ง
