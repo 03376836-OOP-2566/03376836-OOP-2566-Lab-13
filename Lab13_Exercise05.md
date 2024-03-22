@@ -7,6 +7,7 @@
 ```cmd
 dotnet new console --name Lab13_Ex05
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/4ef3c405-2b48-47fa-823f-40d697685fbc)
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
@@ -72,6 +73,8 @@ class Bird : Animal
 }
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/d01149db-da30-4e09-ab94-6baddc56454d)
+
 
 3.Build project โดยการใช้คำสั่ง
 
