@@ -7,6 +7,7 @@
 ```cmd
 dotnet new console --name Lab13_Ex02
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/a756853e-86f3-428d-803b-8610e43da86d)
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
@@ -39,6 +40,8 @@ class Dog : Animal
 }
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/0198b4cd-1b62-4585-8186-e713dd4f9022)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/51f2353c-487b-4c80-b41f-7701d52dcee7)
 
 3.Build project โดยการใช้คำสั่ง
 
@@ -49,6 +52,7 @@ dotnet build  Lab13_Ex02
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/0997e2d8-67a2-4c59-a299-69b51369ae98)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -57,5 +61,6 @@ dotnet run --project Lab13_Ex02
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/5917e649-e545-48a0-a3ee-e34539dcb511)
 
 7.อธิบายสิ่งที่พบในการทดลอง
