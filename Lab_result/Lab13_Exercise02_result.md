@@ -11,3 +11,7 @@
 สามา Run ได้ เพราะ ใช้ Move() จาก object ในอาร์เรย์ IMovable ได้โดยตรง โดยไม่จำเป็นต้องรู้ว่า object นั้นเป็นคลาสชนิดใด ด้วยคุณสมบัติของ Polymorphism ที่เป็นลักษณะของการใช้ Interface
 
 ## อธิบายสิ่งที่พบในการทดลอง
+
+- Dog move by running on the ground
+- Dog move by running on the ground
+- Dog move by running on the ground
