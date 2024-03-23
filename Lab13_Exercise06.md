@@ -7,6 +7,7 @@
 ```cmd
 dotnet new console --name Lab13_Ex06
 ```
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/6b8afcad-c280-4ae9-9eb0-9678c866e6e0)
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
@@ -64,7 +65,9 @@ class DesktopLamp : Lamp, IRemoteControl
 }
 ```
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/d979e454-5dd8-4e22-bff7-813c568b397a)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/4d39dbce-100d-4539-8f2d-5c3157f6c73c)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/3ba9567d-effa-4a62-b737-381f80a13069)
 
 3.Build project โดยการใช้คำสั่ง
@@ -89,6 +92,7 @@ dotnet run --project Lab13_Ex06
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/190aca0b-1b5a-4c90-b8de-a52eda9fe257)
 
 7.อธิบายสิ่งที่พบในการทดลอง
