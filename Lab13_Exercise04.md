@@ -86,5 +86,24 @@ dotnet run --project Lab13_Ex04
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/6704afbe-cc32-4b18-b06c-52bc5b940e98)
 
+ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/bcab9ba4-9f9c-4770-bb59-29e45ab51a71)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/1f36d652-353c-4d79-b602-659289e18718)
+
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/92bfe9f8-8f90-49ff-9585-64a7598c9b8f)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/1e0101f6-0a15-4e4e-a75b-5992a804c75d)
+
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/17f3f8b8-bd72-409e-92b6-5bc454c7e954)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/d1783bfa-20f5-4670-9de4-f1c3eb8a153c)
+
+
 7.อธิบายสิ่งที่พบในการทดลอง
 
+จากโค้ดเดิมมีข้อผิลพลาด
