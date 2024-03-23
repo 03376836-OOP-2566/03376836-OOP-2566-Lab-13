@@ -59,6 +59,7 @@ class Bird : Animal
 
 ```
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/dfc3c36f-0333-4494-ac5f-6ee71f92e53b)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/df10cdb9-4eea-49ae-bddb-7c5c3c401c01)
 
 3.Build project โดยการใช้คำสั่ง
@@ -70,7 +71,9 @@ dotnet build  Lab13_Ex04
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/1e33057b-fcb5-4b75-ab27-6510bb9594e3)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/af6ff665-dbee-4d4f-a812-05eccf532e81)
 
 5.Run project โดยการใช้คำสั่ง
@@ -80,6 +83,7 @@ dotnet run --project Lab13_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-13/assets/144197034/6704afbe-cc32-4b18-b06c-52bc5b940e98)
 
 7.อธิบายสิ่งที่พบในการทดลอง
