@@ -1,26 +1,13 @@
-﻿Animal [] animals = new Animal[3];
-animals[0] = new Dog();
-animals[1] = new Bird();
-animals[2] = new Fish();
-
-foreach (var animal in animals)
-{
-    animal.Move();
-}
-
-interface IMovable
+﻿interface IMovable
 {
     public void Move();
 }
-interface ISpeakable
+
+abstract class Animal : IMovable
 {
-    public void Speak();
+    public abstract void Move(); // Abstract method for movement behavior
 }
 
-abstract class Animal : IMovable, ISpeakable
-{
-    abstract public void Move();
-}
 class Dog : Animal
 {
     public override void Move()
@@ -28,6 +15,7 @@ class Dog : Animal
         System.Console.WriteLine("Dog move by running on the ground");
     }
 }
+
 class Fish : Animal
 {
     public override void Move()
@@ -35,10 +23,27 @@ class Fish : Animal
         System.Console.WriteLine("Fish move by swimming in the water");
     }
 }
+
 class Bird : Animal
 {
     public override void Move()
     {
         System.Console.WriteLine("Bird move by flying in the air");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Animal[] animals = new Animal[3];
+        animals[0] = new Dog();
+        animals[1] = new Bird();
+        animals[2] = new Fish();
+
+        foreach (var animal in animals)
+        {
+            animal.Move(); // Call the appropriate Move() implementation
+        }
     }
 }
