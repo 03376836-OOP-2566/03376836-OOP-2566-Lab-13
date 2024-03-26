@@ -68,6 +68,10 @@ dotnet build  Lab13_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![4](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/48b15778-e9a9-4242-a954-22146cf860fd)
+
+ไม่สามารถ Build ได้ เพราะ อย่างแรก ISpeakable.Speak() ไม่ได้เพิ่มถูกประกาศลงใน abstract class Animal แก้จากประกาศ abstract public void Speak();เพื่อให้ animal.Speack(); แสดงผลตามที่กำหนดของ Array และ เพิ่ม Speack () override ไปยัง class Dog, Fish, Bird แล้วกำหนคำการแสดงผล
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -76,4 +80,16 @@ dotnet run --project Lab13_Ex04
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![4 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/445863ab-1475-4616-8215-bec4e9fcb01a)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ อย่างแรก ISpeakable.Speak() ไม่ได้เพิ่มถูกประกาศลงใน abstract class Animal แก้จากประกาศ abstract public void Speak();เพื่อให้ animal.Speack(); แสดงผลตามที่กำหนดของ Array และ เพิ่ม Speack () override ไปยัง class Dog, Fish, Bird แล้วกำหนคำการแสดงผล
+
+โปรแกรมจะแสดงผล
+
+Dog move by running on the ground
+
+Bird move by flying in the air
+
+Fish move by swimming in the water
