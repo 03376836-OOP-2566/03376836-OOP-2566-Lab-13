@@ -46,6 +46,8 @@ dotnet build  Lab13_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="581" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-13/assets/144195963/6eb8eba9-ee3e-4715-ac2c-a7caf54e1c4a">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -54,4 +56,10 @@ dotnet run --project Lab13_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="451" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-13/assets/144195963/e683b06a-cc31-4e89-a8b9-97f22d268af8">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+Dog move by running on the ground
+Dog move by running on the ground
