@@ -73,6 +73,8 @@ dotnet build  Lab13_Ex07
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="618" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-13/assets/144195963/8233e3ad-e71a-496e-bb4a-2671da2e4333">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -81,4 +83,24 @@ dotnet run --project Lab13_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="583" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-13/assets/144195963/966d34c0-f07d-433e-b8ae-40385644a9a1">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+
+TV Turn on
+
+TV Channel up
+
+TV Channel down
+
+TV Turn off
+
+Lamp Turn on
+
+Lamp cannot change channel
+
+Lamp cannot change channel
+
+Lamp Turn off
