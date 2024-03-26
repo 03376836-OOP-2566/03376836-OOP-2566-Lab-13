@@ -83,6 +83,8 @@ dotnet build  Lab13_Ex05
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="562" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-13/assets/144195963/fcbdee38-409a-4c1c-b3d4-708613036f10">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -91,4 +93,20 @@ dotnet run --project Lab13_Ex05
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="440" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-13/assets/144195963/968e1f1e-1b82-4807-a029-f45f3b03e584">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+
+Dog move by running on the ground
+
+Dog speak "Bok Bok"
+
+Bird move by flying in the air
+
+Bird speak "Jib Jib"
+
+Fish move by swimming in the water
+
+Fish can not speak
