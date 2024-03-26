@@ -64,6 +64,10 @@ dotnet build  Lab13_Ex03
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![3](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/9c69a4f2-70e9-4920-a164-34fa16fbbc2a)
+
+สามารถ Build ได้ เพราะเรียกใช้จาก abstract class Animal : IMovable ที่สืบทอดมาจาก interface IMovable Method Move()
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -72,4 +76,16 @@ dotnet run --project Lab13_Ex03
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![3 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/d76fca64-1a1d-4d60-83da-22b262e1d28b)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ การอ้างอิงถึงอ็อบเจกต์ของคลาสที่เป็น abstract class ในรูปแบบของตัวแปรที่ประกาศโดยใช้ประเภทของ abstract class นั้น ๆ
+
+โปรแกรมจะแสดงผล
+
+Dog move by running on the ground
+
+Bird move by flying in the air
+
+Fish move by swimming in the water

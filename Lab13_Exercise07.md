@@ -73,6 +73,10 @@ dotnet build  Lab13_Ex07
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![7](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/afc69aa6-ca89-4d21-80e0-fe9ff8b585c2)
+
+สามารถ Build ได้ เพราะ ใช้ var เพื่อประกาศตัวแปร myTV และ myLamp โดยไม่ต้องระบุชนิดของตัวแปร ให้เข้าถึงอ็อบเจกต์ให้เป็น SonyTV และ DesktopLamp
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -81,4 +85,26 @@ dotnet run --project Lab13_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![7 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/ce612fd3-2ceb-48e5-ad9c-3c450fd83c9f)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ ใช้ var เพื่อประกาศตัวแปร myTV และ myLamp โดยไม่ต้องระบุชนิดของตัวแปร ให้เข้าถึงอ็อบเจกต์ให้เป็น SonyTV และ DesktopLamp
+
+โปรแกรมจะแสดงผล
+
+TV Turn on
+
+TV Channel up
+
+TV Channel down
+
+TV Turn off
+
+Lamp Turn on
+
+Lamp cannot change channel
+
+Lamp cannot change channel
+
+Lamp Turn off
