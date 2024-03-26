@@ -73,6 +73,10 @@ dotnet build  Lab13_Ex06
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![6](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/bc86a9c8-d64b-4a56-95ea-4490c98d2260)
+
+ไม่สามารถ Build ได้ เพราะ ไม่ได้ระบุ Method แก้โดยให้ทำให้ interface IRemoteControl เป็น public และลบคำว่า public ออกจาก declaration ของ method ภายใน interfaceน class PowerAppliance ให้เพิ่ม property Wattage และ PowerStatus เป็น properties ที่สามารถอ่านและเขียนได้ (get;set;) เพื่อให้เข้ากับการใช้งาน property ใน class Television และ Lamp และ ใน class Television และ Lamp ให้ implement interface IRemoteControl และ implement method ที่ต้องการตาม interface เพื่อให้สอดคล้องกับการใช้งานและการควบคุมอุปกรณ์และเครื่องใช้ไฟฟ้าตามสัญญาของ interface
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -81,4 +85,27 @@ dotnet run --project Lab13_Ex06
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+
+![5](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/4890348d-4589-4c81-ba53-6c4387d83d49)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ ไม่ได้ระบุ Method แก้โดยให้ทำให้ interface IRemoteControl เป็น public และลบคำว่า public ออกจาก declaration ของ method ภายใน interfaceน class PowerAppliance ให้เพิ่ม property Wattage และ PowerStatus เป็น properties ที่สามารถอ่านและเขียนได้ (get;set;) เพื่อให้เข้ากับการใช้งาน property ใน class Television และ Lamp และ ใน class Television และ Lamp ให้ implement interface IRemoteControl และ implement method ที่ต้องการตาม interface เพื่อให้สอดคล้องกับการใช้งานและการควบคุมอุปกรณ์และเครื่องใช้ไฟฟ้าตามสัญญาของ interface
+
+โปรแกรมจะแสดงผล
+
+TV Turn on
+
+TV Channel up
+
+TV Channel down
+
+TV Turn off
+
+Lamp Turn on
+
+Lamp cannot change channel
+
+Lamp cannot change channel
+
+Lamp Turn off
