@@ -85,8 +85,8 @@ dotnet run --project Lab13_Ex06
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![6 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/9bbf3aa6-3109-4c99-afa1-15a8d52c6ecd)
 
-![5](https://github.com/Siriratda/03376836-OOP-2566-Lab-13/assets/144195995/4890348d-4589-4c81-ba53-6c4387d83d49)
 
 7.อธิบายสิ่งที่พบในการทดลอง
 
