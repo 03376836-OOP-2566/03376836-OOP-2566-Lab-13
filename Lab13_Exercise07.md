@@ -72,6 +72,7 @@ dotnet build  Lab13_Ex07
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/bd1a44b2-4952-4738-84e4-3ae2f2fcf040)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -80,5 +81,12 @@ dotnet run --project Lab13_Ex07
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/1c647752-f8ca-4ae9-a540-17292f818354)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+ var myTV = new SonyTV();
+ 
+ var myLamp = new DesktopLamp();
+ 
+ ใช้การประกาศตัวแปรด้วย var ทำให้สามารถเข้าถึงคุณสมบัติและ method ของคลาสย่อยได้โดยตรง
+ 

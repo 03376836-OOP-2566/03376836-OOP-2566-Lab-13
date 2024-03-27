@@ -70,8 +70,16 @@ dotnet build  Lab13_Ex06
 ```
 
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+# แก้ไข
+เกิด Error เนื่องจากมีการเรียกใช้เมทอดที่ไม่ถูกต้องในคลาส Television และ Lamp ซึ่งไม่ได้มีการ override เมทอดจาก IRemoteControl
+
+ หลังแก้โค้ด โดย เพิ่ม method เหล่านั้นให้ตรงกับ method ใน IRemoteControl
+ ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/c602dcf3-32fd-4125-8b8a-e4cf83331826)
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/c7ab6780-715e-48dc-b2e4-b9bc3afb209d)
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/1b8db0de-41f6-465d-8e6f-354771a4c22f)
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/dc86e4a5-bcfa-4859-b7ba-f9817d04ce50)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -80,5 +88,26 @@ dotnet run --project Lab13_Ex06
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/9023f324-5e6e-4d96-910b-3ae82e6f9ed2)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+เกิด Error เนื่องจากมีการเรียกใช้เมทอดที่ไม่ถูกต้องในคลาส Television และ Lamp ซึ่งไม่ได้มีการ override เมทอดจาก IRemoteControl
+
+เเสดงผล
+
+TV Turn on
+
+TV Channel up
+
+TV Channel down
+
+TV Turn off
+
+Lamp Turn on
+
+Lamp cannot change channel
+
+Lamp cannot change channel
+
+Lamp Turn off

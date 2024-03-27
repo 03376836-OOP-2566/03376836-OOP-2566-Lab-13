@@ -82,6 +82,7 @@ dotnet build  Lab13_Ex05
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/3f34bce9-56e4-4d10-8db1-7cc29f64600f)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -90,5 +91,8 @@ dotnet run --project Lab13_Ex05
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-13/assets/144195708/bc8fe9f3-5fca-44ac-aaab-d368f47214a0)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+เกิด Error เพราะ Abstract Class Animal สืบทอดจาก Interface ISpeakable แต่ไม่มีการ override `Speak()` ซึ่งเป็น method ที่ต้องสืบทอดมาจาก Interface ISpeakable
+ แต่ทุกคลาสใน Animal มีการเพิ่ม Implement เมทอดใน ISpeakable `Speak()`
